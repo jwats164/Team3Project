@@ -10,7 +10,7 @@ The application will sell numerous options of High-quality miniature automobiles
 Joshua Watson: https://github.com/jwats164/Team3Project/blob/ace4e044953c73ee464f5a489be1f0d245fe1656/Joshua-Watson-Resume.md
 
 
-Joseph Ohanu:
+Joseph Ohanu: https://github.com/jwats164/Team3Project/blob/db78e27f5b98ab6066635ccada97f30770745d65/Joseph-Ohanu-Resume.md
 
 
 Adam Tucker:
