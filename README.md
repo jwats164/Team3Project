@@ -22,6 +22,7 @@ Heriberto Contreas:
 
 **TEAM ASSIGNMENTS**
 
+https://github.com/jwats164/Team3Project/blob/59c06554d02b52c59182f3a71fcffab846534e17/Team-Assignments.md
 
 
 **TECHNOLOGY SELECTION**
