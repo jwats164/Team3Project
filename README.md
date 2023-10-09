@@ -7,7 +7,7 @@ The application will sell numerous options of High-quality miniature automobiles
 
 **MEET OUR TEAM**
 
-Joshua Watson: 
+Joshua Watson: Joshua-Watson-Resume.md
 
 
 Joseph Ohanu:
