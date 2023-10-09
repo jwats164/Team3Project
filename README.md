@@ -7,6 +7,10 @@ The application will sell numerous options of High-quality miniature automobiles
 
 **MEET OUR TEAM**
 
+Joshua Watson: 
+Joseph Ohanu:
+Adam Tucker:
+Heriberto Contreas: 
 
 
 **TEAM ASSIGNMENTS**
