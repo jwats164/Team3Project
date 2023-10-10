@@ -27,6 +27,7 @@ https://github.com/jwats164/Team3Project/blob/59c06554d02b52c59182f3a71fcffab846
 
 **TECHNOLOGY SELECTION**
 
+https://github.com/jwats164/Team3Project/blob/b6d71e79a2d76d4aa26d927ff9295dd144ac0c5e/Technology-Description.md
 
 
 **PROJECT PLAN**
