@@ -26,7 +26,7 @@ Relevant Coursework:
 Python, Java, C#, HTML/CSS,SQL
 
 ### Technologies/Frameworks
-GitHub/GitHub Desktop, AWS, Linux, Windows, Intellij, Excel, VSCode
+GitHub/GitHub Desktop, AWS, Linux, Windows, Intellij, Excel, Visual Studios
 
 ## Work Experience
 
@@ -37,13 +37,13 @@ Marietta, Georgia
 
 - install correct operating systems and domains as needed for faculty and staff.
 - Assist school faculty and staff with troubleshooting issues with computers.
-- Maintain computer hardware and equipment in data center, labs and mobile. 
+- Maintain computer hardware and equipment in the data center, labs, and mobile computers. 
 
 
 **Factset**
 April 2023- May 2023
 Software Engineering Extern
-Norwalk, Conneticut
+Norwalk, Connecticut
 
 - Completed training sessions on Python.
 - Attended Tech Talks on AI and Machine Learning and Cloud Computing. 
@@ -58,7 +58,7 @@ Norwalk, Conneticut
 
 ### AWS Deep Racer Challenge | AWS, Python, Machined Learning
 
-- Coded a virtual racecar using Python and Machined Learning to enable the car to travel along any type of course on its own.
+- Coded a virtual racecar using Python and machine learning to enable the car to travel along any course independently.
   
 ### Personal Overview | HTML/CSS, Replit
 
@@ -71,12 +71,12 @@ Norwalk, Conneticut
 September 2021 - Present
 Member
 
-- Contributor to an organization that gathers African Americans in engineering fields to help prepare for, promote, and maintain success within their field of engineering.
+- Contributor to an organization that gathers African Americans in engineering fields to help prepare for, promote, and maintain success within their engineering field.
 
-**The Colligiete Institute for Responsible Citizenship**
+**The Collegiate Institute for Responsible Citizenship**
 October 2022 - Present
 
-- Member of a select group of young black men that attend leadership conferences to help prepare them for success and provide them with the knowledge and tools to make a difference in their desired field.
+- Member of a select group of young black men who attend leadership conferences to help prepare them for success and provide them with the knowledge and tools to make a difference in their desired field.
 
 **Kennesaw State Honors Student**
 August 2021 - Present
