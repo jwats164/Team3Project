@@ -1,6 +1,7 @@
 # Joshua Watson
 
-• jwats164@students.kennesaw.edu • [GitHub]()
+• jwats164@students.kennesaw.edu • [GitHub]() • LinkedIn[www.linkedin.com/in/]
+
 
 ## Education
 
