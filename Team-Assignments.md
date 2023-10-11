@@ -7,7 +7,7 @@ Joshua is leading the group on the project and will be one of the primary presen
 ## Joseph Ohanu
 [https://github.com/jwats164/Team3Project/blob/main/Joseph-Ohanu-Resume.md]
 
-Joseph Ohanu will support the coding effort of the project and the administrate the database. Additionally, will help deign the UI for the application to ensure that the projects visual and interactive design meets user expectations. 
+Joseph Ohanu will support the coding effort of the project and the administrate the database. Additionally, Joseph will help deign the UI for the application to ensure that the projects visual and interactive design meets user expectations. 
 
 ## Adam Tucker
 [https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md]
