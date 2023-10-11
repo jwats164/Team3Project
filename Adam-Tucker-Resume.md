@@ -10,11 +10,11 @@
 - GPA: 3.45/4.00
 
 Relevant Coursework:
--Honors CSE FYE
--Software Engineering
--Discrete Structures
--Fundamentals of Game Design and Development
--Application Extension and Scripting
+- Honors CSE FYE
+- Software Engineering
+- Discrete Structures
+- Fundamentals of Game Design and Development
+- Application Extension and Scripting
 
 ## Technical Skills
 
@@ -30,8 +30,8 @@ GitHub, WinForms, Windows, Visual Studio,
 ## Technical Projects
 
 ### Google Summer of Code: MIT AppInventor Issue #969 | Java, Vagrant
--Worked in a group to solve an issue where the application had no formal "getter" method for the volume of the media player
--Changes were not pulled, but the changes implemented fixed the issue to group's knowledge
+- Worked in a group to solve an issue where the application had no formal "getter" method for the volume of the media player
+- Changes were not pulled, but the changes implemented fixed the issue to group's knowledge
 
 ## Leadership & Activities
 
