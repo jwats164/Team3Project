@@ -16,7 +16,7 @@ The application will sell numerous options of High-quality miniature automobiles
 **Adam Tucker:** https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md
 
 
-**Heriberto Contreas:** 
+**Heriberto Contreas:** https://github.com/jwats164/Team3Project/blob/main/Heriberto-Contreras_Resume.md
 
 
 
