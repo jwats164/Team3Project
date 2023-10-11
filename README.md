@@ -32,6 +32,8 @@ https://github.com/jwats164/Team3Project/blob/main/Technology-Description.md
 
 ## PROJECT PLAN
 
+https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-19
+
 
 
 ## PROJECT PLAN VIDEO PRESENTATION
