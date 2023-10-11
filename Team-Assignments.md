@@ -8,6 +8,6 @@ Joshua is leading the group on the project and will be one of the primary presen
 [https://github.com/jwats164/Team3Project/blob/main/Joseph-Ohanu-Resume.md]
 
 ## Adam Tucker
-[]
+[https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md]
 
 ## Heriberto Contreras 
