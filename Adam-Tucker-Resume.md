@@ -22,7 +22,7 @@ Relevant Coursework:
 Java, C#, .NET
 
 ### Technologies/Frameworks
-GitHub, WinForms, Windows, Visual Studio, 
+GitHub, WinForms, Windows, Visual Studio, Unity
 
 ## Work Experience
 **None**
