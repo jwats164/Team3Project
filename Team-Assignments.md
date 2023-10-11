@@ -13,3 +13,4 @@ Joseph Ohanu will support the coding effort of the project and the administrate 
 [https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md]
 
 ## Heriberto Contreras 
+[https://github.com/jwats164/Team3Project/blob/main/Heriberto-Contreras_Resume.md]
