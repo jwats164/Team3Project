@@ -12,6 +12,7 @@ Joseph Ohanu will support the coding effort of the project and the administrate 
 ## Adam Tucker
 [https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md]
 
+Adam will mainly focus on the frontend of the application with UI and UX, ensuring that the application is easy to use. Adam will, however, assist in all areas of the project when it is needed.
 
 ## Heriberto Contreras 
 [https://github.com/jwats164/Team3Project/blob/main/Heriberto-Contreras_Resume.md]
