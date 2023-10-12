@@ -4,11 +4,11 @@ In this section, we will outline the technologies chosen for our project and bri
 
 ## Language(s)
 
-- **Java**: We have chosen Java as the primary programming language for our desktop application. Java is a versatile and widely-used language known for its platform independence, making it suitable for creating cross-platform applications that can run on various operating systems without modification. Additionally, all of the members of our group have experience working with Java and its frameworks, so it'll be convinent for us to use Java since we are comfortable with the language.
+- **Java**: We have chosen Java as the primary programming language for our desktop application. Java is a versatile and widely used language known for its platform independence, making it suitable for creating cross-platform applications that can run on various operating systems without modification. Additionally, most of the members of our group have experience working with Java and its frameworks, so it'll be convenient for us to use Java since we are comfortable with the language.
 
 ## Framework(s)
 
-- **Swing Framework**: For building the graphical user interface (GUI) of our desktop application, we have opted to use the Swing framework. Swing provides a robust set of components and tools for creating interactive and visually appealing user interfaces in Java. Its flexibility and extensive documentation make it an excellent choice for our project.
+- **Swing Framework**: For building the graphical user interface (GUI) of our desktop application, we have opted to use the Swing framework. Swing provides robust components and tools for creating interactive and visually appealing user interfaces in Java. Its flexibility and extensive documentation make it an excellent choice for our project.
 
   [Learn more about Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
 
