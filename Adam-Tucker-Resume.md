@@ -1,6 +1,6 @@
 # Adam Tucker
 
-• atucke84@students.kennesaw.edu • [GitHub](https://github.com/SammichMeat)
+• atucke84@students.kennesaw.edu • [GitHub](https://github.com/SammichMeat) • [LinkedIn](https://www.linkedin.com/in/atucker84/)
 
 ## Education
 
