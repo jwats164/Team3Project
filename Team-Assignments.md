@@ -7,7 +7,7 @@ Joshua is leading the group on the project and will be one of the primary presen
 ## Joseph Ohanu
 [https://github.com/jwats164/Team3Project/blob/main/Joseph-Ohanu-Resume.md]
 
-Joseph Ohanu will support the coding effort of the project and the administrate the database. Additionally, Joseph will help deign the UI for the application to ensure that the projects visual and interactive design meets user expectations. 
+Joseph Ohanu will support the coding effort of the project and administrate the database. Additionally, Joseph will help design the UI for the application to ensure that the project's visual and interactive design meets user expectations. 
 
 ## Adam Tucker
 [https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md]
@@ -17,4 +17,4 @@ Adam will mainly focus on the frontend of the application with UI and UX, ensuri
 ## Heriberto Contreras 
 [https://github.com/jwats164/Team3Project/blob/main/Heriberto-Contreras_Resume.md]
 
-Heriberto will assist in requirement set up, and coding the backend framework. Insuring proper implementation will also be a top priority for this team member.
+Heriberto will assist in requirement set up, and coding the backend framework. Ensuring proper implementation will also be a top priority for this team member.
