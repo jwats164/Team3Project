@@ -37,3 +37,4 @@ https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-22
 
 
 ## PROJECT PLAN VIDEO PRESENTATION
+<iframe src="https://kennesawedu-my.sharepoint.com/personal/jwats164_students_kennesaw_edu/_layouts/15/embed.aspx?UniqueId=d50fe14b-6052-420f-bc76-70ae57130c14&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Call with Adam and 2 others-20231012_200839-Meeting Recording.mp4"></iframe>
