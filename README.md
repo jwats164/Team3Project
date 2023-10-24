@@ -7,16 +7,16 @@ The application will sell numerous options of High-quality miniature automobiles
 
 ## MEET OUR TEAM
 
-[**Joshua Watson:**](https://github.com/jwats164/Team3Project/blob/main/Joshua-Watson-Resume.md)
+[**Joshua Watson**](https://github.com/jwats164/Team3Project/blob/main/Joshua-Watson-Resume.md)
 
 
-[**Joseph Ohanu:**](https://github.com/jwats164/Team3Project/blob/main/Joseph-Ohanu-Resume.md)
+[**Joseph Ohanu**](https://github.com/jwats164/Team3Project/blob/main/Joseph-Ohanu-Resume.md)
 
 
-[**Adam Tucker:**](https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md)
+[**Adam Tucker**](https://github.com/jwats164/Team3Project/blob/main/Adam-Tucker-Resume.md)
 
 
-[**Heriberto Contreas:**](https://github.com/jwats164/Team3Project/blob/main/Heriberto-Contreras_Resume.md)
+[**Heriberto Contreas**](https://github.com/jwats164/Team3Project/blob/main/Heriberto-Contreras_Resume.md)
 
 
 
