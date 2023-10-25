@@ -30,16 +30,14 @@ https://github.com/jwats164/Team3Project/blob/main/Team-Assignments.md
 https://github.com/jwats164/Team3Project/blob/main/Technology-Description.md
 
 
-## Requirements
-
-
 ## PROJECT PLAN
 
 https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-22
-
 
 
 ## PROJECT PLAN VIDEO PRESENTATION
 
 https://screenpal.com/watch/c06IcCV58G3
 
+
+## Requirements
