@@ -2,7 +2,7 @@
 
 ## FUTURE USER INTERFACE DESIGN IN MARVEL
   ### T3E-26: DESIGN UI LOGIN PROCESS
-    <strong>T3S-27: Create Login</strong>
+    T3S-27: CREATE LOGIN
       - Priority: 
       - Estimated Effort:
       - 
