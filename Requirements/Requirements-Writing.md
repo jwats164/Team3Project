@@ -58,8 +58,71 @@
 
 
 
-## FUTURE TECHNICAL DESIGN
-### T3E-37: CREATE TECHNICAL DESIGN DETAILING
+## Future Technical Design
+  ### T3E-37 Create Technical Design Detailing
+
+    T3S-42: DESIGN SERVICES (User Must be able to self register and login)
+
+      - Priority: Must Have
+      - Estimated Effort: 1 to 2 days 
+      - Fuctional or Non-Functional: Functional
+      - Description: The user must be able to login via the GUI interface provided.
+                     The information provided by the user during the login phase will
+                     be a username (unique) and a password. This information will be stored   
+                     in the database to keep track of users that are registered to the       
+                     store. Other requirements to the login process includes that the admin  
+                     must be able to login using the same process of an average non-admin 
+                     user.
+                     
+     T3S-41: DESIGN SERVICES (The shopping cart design)
+
+      - Priority: Must Have
+      - Estimated Effort: 1 day
+      - Fuctional or Non-Functional: Functional
+      - Description: It is required that the shopping cart must be able to contain
+                     items that the user wants to purchase. The shoping cart can also
+                     be empty. Items in the shopping cart will be implemented in a way
+                     where it can be modified up to the checkout process. The exact way
+                     that the shopping cart will be implemented will be discussed
+                     in the technical design milestone.
+    
+    T3S-43: SEED DATA (Data that must be implemented from the start)
+
+      - Priority: Must Have
+      - Estimated Effort: 2 days
+      - Fuctional or Non-Functional: Functional 
+      - Description: An user cannot self-register as a admin. The ability to grant
+                     a user the admin role can only be done by another admin. This 
+                     presents a problem. If there are no admin roles from the beginning
+                     then there cannot be any admins at all. Therefore we will seed
+                     some data that will grant the online store owner that admin
+                     role. 
+    
+    T3S-44: DESIGN DATA STORAGE (What type of data will be stored)
+
+      - Priority: Must Have
+      - Estimated Effort: 1 day
+      - Fuctional or Non-Functional: Functional
+      - Description: The type of currency being stored and used for this project
+                     will be USD. The format that the money will be displayed  will include
+                     the $ symbol, commas, and decimals.
+                     An example might look like this, $456.23 or $300.00. Any 
+                     currency that will be stored or written in the code will be written
+                     as the price in cents and stored as an integer. This will avoid
+                     any potential issue with using floating points.
+    
+    T3S-44: DESIGN DATA STORAGE (Addressing the more Admin powers related to data)
+
+      - Priority: Must Have
+      - Estimated Effort: 1 day
+      - Fuctional or Non-Functional: Functional
+      - Description: The admin will be able to access that stored data relating to the
+                     purchases of the inventory items. The admin will be able to run sales
+                     reports that shows everything purchased and who purchases it. This 
+                     data will be stored using a SQL database. The admin will also be
+                     able to add inventory. For version one manually inputing the 
+                     data in the database will have to do.
+    
 
 ## FUTURE IMPLEMENTATION
 
