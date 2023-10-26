@@ -71,7 +71,8 @@
       - Priority: Must Have
       - Estimated Effort: 1-3 days
       - Functional
-      - Description: 
+      - Description: Allow Admin users to create sales reports to track sales, inventory, and customers who
+                     are making purchases.
     
 
     
