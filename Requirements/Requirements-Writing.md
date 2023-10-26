@@ -43,7 +43,10 @@
       - Priority: Must Have
       - Estimated Effort: 1-2 weeks
       - Functional
-      - Description: 
+      - Description: Build a cart where items that the customer is interested in 
+      can accumulate. Allow users to remove items from their cart as well. If there
+      are zero items in the cart, or all of the items in the cart were removed,
+      prohibit customers from entering into the checkout phase.
 
     T3S-32: CREATE CHECKOUT(INCLUDING PAYMENT ACCEPTANCE AND ON-SCREEN RECEIPT)
 
