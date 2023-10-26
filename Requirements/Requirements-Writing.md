@@ -163,14 +163,14 @@
 
         - Priority: Want to Have
         - Estimated Effort: 2 Days
-        - 
-        - Description:
+        - Functional or Non-Functional: Functional
+        - Description: The system supports at least one picture for each item, but this enhancement aims to provide the capability to attach additional images to an inventory item.
 
        T3S-63: CREATE UI TO ADD NEW INVENTORY TO SYSTEM
         
          - Priority: Want to Have
          - Estimated Effort: 2 Days
-         - 
+         - Functional or Non-Functional: Functional
          - Description: Admins need a way to add new inventory to the system, with a preference for a user interface but an option for manual data entry.
          
   ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
@@ -178,14 +178,14 @@
 
         - Priority: Must Have
         - Estimated Effort:
-        - 
+        - Functional or Non-Functional: Functional
         - Description
 
       TS3-61: ADMIN CAN EXPORT THE SALES REPORT TO CSV
 
         - Priority: Must Have
         - Estimated Effort:
-        - 
+        - Functional or Non-Functional: Functional
         - Description: Admins must be able to run a sales report in a CSV showing everything purchased and who purchased it. Admins can click on a sold item and it shows them the receipt related to that.
         
  ## T3E-37 Create Technical Design Detailing
