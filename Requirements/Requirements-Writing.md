@@ -93,7 +93,7 @@
 
 
 
-## Future Technical Design
+## FUTURE TECHNICAL DESIGN
   ### T3E-37 Create Technical Design Detailing
 
     T3S-42: DESIGN SERVICES (User Must be able to self-register and login)
