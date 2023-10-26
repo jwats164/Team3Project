@@ -72,7 +72,8 @@
       - Estimated Effort: 1-3 days
       - Functional
       - Description: Allow Admin users to create sales reports to track sales, inventory, and customers who
-                     are making purchases.
+                     are making purchases. Along with this, Admin users will be able to add inventory to the designated
+                     database as needed.
     
 
     
