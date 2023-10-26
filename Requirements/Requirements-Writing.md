@@ -176,4 +176,40 @@
         - Estimated Effort:
         - 
         - Description: Admins must be able to run a sales report in a CSV showing everything purchased and who purchased it. Admins can click on a sold item and it shows them the receipt related to that.
-      
+        
+ ## T3E-37 Create Technical Design Detailing
+
+    T3S-42: DESIGN SERVICES (User Must be able to self register and login)
+
+      - Priority: Needs to have
+      - Estimated Effort: 1 day 
+      - Fuctional or Non-Functional: Non-Functional
+      - Description: The user would be able to search for items using the search
+                     bar in the main page where items are being displayed. The 
+                     words that are typed into the box will be matched to the
+                     words present in the item's name and description.
+                     
+     T3S-41: DESIGN SERVICES (The shopping cart design)
+
+      - Priority: Needs to have
+      - Estimated Effort: 1 day
+      - Fuctional or Non-Functional: Non-Functional
+      - Description: Once a purchase is completed and a receipt is generated,
+                     A copy of the receipt will be email to the customer using 
+                     the email associated with the account.
+    
+    T3S-44: DESIGN DATA STORAGE (Addressing the more Admin powers related to data)
+
+      - Priority: Needs to have 
+      - Estimated Effort: 1 day
+      - Fuctional or Non-Functional: Non-Functional
+      - Description: The admin will be able to export the sales data from the
+                     sales report and export it to a CSV file.
+    
+    T3S-44: DESIGN DATA STORAGE (Addressing the more Admin powers related to data)
+
+      - Priority: Wants to have
+      - Estimated Effort: 1 day
+      - Fuctional or Non-Functional: Non-Functional
+      - Description: From the sales report that the admin can pull up, the admin
+                     will be display the receipt associated with the purchase.
