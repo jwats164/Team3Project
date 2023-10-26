@@ -80,7 +80,7 @@
     
    ### T3E-60 COMPLETE MOCKUP OF APPLICATION
 
-     T3S-61: INCORPORATE ALL MUST HAVES INTO A HIGH-FIDELITY MOCK UI DESIGN
+     T3S-61: INCORPORATE ALL MUST-HAVES INTO A HIGH-FIDELITY MOCK UI DESIGN
 
       - Priority: Must Have
       - Estimated Effort: 3-5 days 
@@ -93,7 +93,7 @@
 
 
 
-## FUTURE TECHNICAL DESIGN
+
   ### T3E-37 Create Technical Design Detailing
 
     T3S-42: DESIGN SERVICES (User Must be able to self-register and login)
