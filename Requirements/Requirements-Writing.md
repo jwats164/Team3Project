@@ -42,7 +42,7 @@
     T3S-31: CREATE SHOPPING CART (INCLUDING REMOVAL)     
       
       - Priority: Must Have
-      - Estimated Effort: 1-2 weeks
+      - Estimated Effort: 5 days
       - Functional
       - Description: Build a cart where items that the customer is interested in 
                      can accumulate. Allow users to remove items from their carts as
@@ -53,7 +53,7 @@
     T3S-32: CREATE CHECKOUT(INCLUDING PAYMENT ACCEPTANCE AND ON-SCREEN RECEIPT)
 
       - Priority: Must Have
-      - Estimated Effort: 1 week
+      - Estimated Effort: 5 days
       - Functional
       - Description: Create a checkout system that allows customers to view each of their
                      products, the subtotal of all the products in US dollars, and to remove
