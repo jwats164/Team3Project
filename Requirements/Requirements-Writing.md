@@ -4,14 +4,14 @@
   ### T3E-26: DESIGN UI LOGIN PROCESS
     T3S-27: CREATE LOGIN
     
-      - Priority: 
+      - Priority: Must Have
       - Estimated Effort:
       - 
       - Description: 
       
     T3S-28: CREATE SELF REGISTRATION
 
-      - PRIORITY: 
+      - PRIORITY: Must Have
       - ESTIMATED EFFORT:
       - 
       - DESCRIPTION: 
@@ -19,14 +19,14 @@
  ### T3E-56: ENABLE ACCESS TO PRODUCTS
     T3S-29: CREATE INVENTORY LIST(INCLUDING SEARCH)     
       
-      - Priority:
+      - Priority: Must Have
       - Estimated Effort:
       - 
       - Description
     
     T3S-30: CREATE PRODUCT VIEW
     
-      - Priority:
+      - Priority: Must Have
       - Estimated Effort:
       - 
       - Description
@@ -35,21 +35,21 @@
 ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
     T3S-31: CREATE SHOPPING CART (INCLUDING REMOVAL)     
       
-      - Priority:
+      - Priority: Must Have
       - Estimated Effort:
       - 
       - Description
 
     T3S-32: CREATE CHECKOUT(INCLUDING PAYMENT ACCEPTANCE AND ON-SCREEN RECEIPT)
 
-      - Priority:
+      - Priority: Must Have
       - Estimated Effort:
       - 
       - Description
       
     T3S-33: CREATE SALES REPORT
      
-      - Priority:
+      - Priority: Must Have
       - Estimated Effort:
       - 
       - Description
