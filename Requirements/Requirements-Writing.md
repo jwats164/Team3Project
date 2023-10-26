@@ -25,3 +25,13 @@
 ### T3E-37: CREATE TECHNICAL DESIGN DETAILING
 
 ## FUTURE IMPLEMENTATION
+
+## Version 2
+  ### FUTURE USER INTERFACE DESIGN IN MARVEL
+      T3S-58: CREATE PICTURES FOR INVENTORY ITEMS
+
+      - Priority: Want to Have
+      - Estimated Effort: 2 Days
+      - Functional
+      - Description: 
+      
