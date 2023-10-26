@@ -58,10 +58,12 @@
       products, the subtotal of all the products in US dollars, and to remove any undesired
       items still left in their cart. Incorporate a pay now button where users must enter
       their shipping address, credit card information(Number, expiration date, and CVV), 
-      phone number, and shipping speed (Overnight: $29, 3-Day: $19, Ground: $0). Once they finish 
+      phone number, and shipping speed (Overnight: $29, 3-day: $19, Ground: $0). Once they finish 
       present the confirm order button which will lead them to a list showing their items, their 
       subtotal, a 6% tax of the subtotal added, shipping speed, and grand total. To finalize the
-      process, the user will click the complete order button
+      process, the user will click the complete order button which will result in their receipt, address,
+      and the last 4 digits of their card being displayed. The inventory the user bought will
+      be removed from the main page and search as well.
       
       
     T3S-33: CREATE SALES REPORT
