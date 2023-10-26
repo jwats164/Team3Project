@@ -8,7 +8,7 @@
       - Estimated Effort: 1-2 Days
       - Functional
       - Description: All users can create a login using a unique username and a
-      six-character minimum password. 
+                     six-character minimum password. 
       
     T3S-28: ALLOW SELF REGISTRATION
 
@@ -16,7 +16,7 @@
       - Estimated Effort: 1-2 days
       - Functional
       - Description: Allow users to register an account if it's their first time
-      logging in, and transforming regular accounts into Admin accounts as needed. 
+                     logging in, and transforming regular accounts into Admin accounts as needed. 
 
  ### T3E-56: ENABLE ACCESS TO PRODUCTS
     T3S-29: CREATE INVENTORY LIST(INCLUDING SEARCH)     
@@ -25,7 +25,7 @@
       - Estimated Effort: 1-2 days
       - Functional
       - Description: Implement a main screen of a list of all available inventory
-      sorted by highest price to lowest price.
+                     sorted by highest price to lowest price.
     
     T3S-30: CREATE PRODUCT VIEW
     
@@ -33,9 +33,9 @@
       - Estimated Effort: 3-4 days
       - Functional
       - Description: Design a portfolio for each product that includes a name,
-      price, picture, and description. A button will also be added to ensure that
-      desired items can be added to a cart to be viewed later at checkout.
-    
+                     price, picture, and description. A button will also be added to ensure that
+                     desired items can be added to a cart to be viewed later at checkout.
+        
 
 ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
     T3S-31: CREATE SHOPPING CART (INCLUDING REMOVAL)     
@@ -44,10 +44,10 @@
       - Estimated Effort: 1-2 weeks
       - Functional
       - Description: Build a cart where items that the customer is interested in 
-      can accumulate. Allow users to remove items from their cart as well. If there
-      are zero items in the cart, or all of the items in the cart were removed,
-      prohibit customers from entering into the checkout phase and take them back to the 
-      main shopping page.
+                     can accumulate. Allow users to remove items from their cart as well. If there
+                     are zero items in the cart, or all of the items in the cart were removed,
+                     prohibit customers from entering into the checkout phase and take them back to the 
+                     main shopping page.
 
     T3S-32: CREATE CHECKOUT(INCLUDING PAYMENT ACCEPTANCE AND ON-SCREEN RECEIPT)
 
@@ -55,15 +55,15 @@
       - Estimated Effort: 1 week
       - Functional
       - Description: Create a checkout system that allows customers to view each of their
-      products, the subtotal of all the products in US dollars, and to remove any undesired
-      items still left in their cart. Incorporate a pay now button where users must enter
-      their shipping address, credit card information(Number, expiration date, and CVV), 
-      phone number, and shipping speed (Overnight: $29, 3-day: $19, Ground: $0). Once they finish 
-      present the confirm order button which will lead them to a list showing their items, their 
-      subtotal, a 6% tax of the subtotal added, shipping speed, and grand total. To finalize the
-      process, the user will click the complete order button which will result in their receipt, address,
-      and the last 4 digits of their card being displayed. The inventory the user bought will
-      be removed from the main page and search as well.
+                     products, the subtotal of all the products in US dollars, and to remove any undesired
+                     items still left in their cart. Incorporate a pay now button where users must enter
+                     their shipping address, credit card information(Number, expiration date, and CVV), 
+                     phone number, and shipping speed (Overnight: $29, 3-day: $19, Ground: $0). Once they finish 
+                     present the confirm order button which will lead them to a list showing their items, their 
+                     subtotal, a 6% tax of the subtotal added, shipping speed, and grand total. To finalize the
+                     process, the user will click the complete order button which will result in their receipt, address,
+                     and the last 4 digits of their card being displayed. The inventory the user bought will
+                     be removed from the main page and search as well.
       
       
     T3S-33: CREATE SALES REPORT
@@ -71,7 +71,7 @@
       - Priority: Must Have
       - Estimated Effort: 1-3 days
       - Functional
-      - Description:
+      - Description: 
     
 
     
