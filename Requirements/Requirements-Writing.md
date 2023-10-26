@@ -159,9 +159,6 @@
                      data in the database will have to do.
     
 
-## FUTURE IMPLEMENTATION
-
-
 
 # Version 2
 
