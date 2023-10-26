@@ -7,14 +7,16 @@
       - Priority: Must Have
       - Estimated Effort: 1-2 Days
       - Functional
-      - Description: All users can create a login using a unique username and a six-character minimum password. 
+      - Description: All users can create a login using a unique username and a
+      six-character minimum password. 
       
     T3S-28: ALLOW SELF REGISTRATION
 
       - Priority: Must Have
       - Estimated Effort: 1-2 days
       - Functional
-      - Description: Allow users to register an account if it's their first time logging in, and transform regular accounts into Admin accounts as needed. 
+      - Description: Allow users to register an account if it's their first time
+      logging in, and transforming regular accounts into Admin accounts as needed. 
 
  ### T3E-56: ENABLE ACCESS TO PRODUCTS
     T3S-29: CREATE INVENTORY LIST(INCLUDING SEARCH)     
@@ -22,14 +24,17 @@
       - Priority: Must Have
       - Estimated Effort: 1-2 days
       - Functional
-      - Description: Implement a main screen of a list of all available inventory sorted by highest price to lowest price.
+      - Description: Implement a main screen of a list of all available inventory
+      sorted by highest price to lowest price.
     
     T3S-30: CREATE PRODUCT VIEW
     
       - Priority: Must Have
       - Estimated Effort: 3-4 days
       - Functional
-      - Description: Design a portfolio for each product that includes a name, price, picture, and description. A button will also be added to ensure that desired items can be added to a cart to be viewed later at checkout.
+      - Description: Design a portfolio for each product that includes a name,
+      price, picture, and description. A button will also be added to ensure that
+      desired items can be added to a cart to be viewed later at checkout.
     
 
 ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
