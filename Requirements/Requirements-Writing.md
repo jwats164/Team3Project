@@ -2,34 +2,34 @@
 
 ## FUTURE USER INTERFACE DESIGN IN MARVEL
   ### T3E-26: DESIGN UI LOGIN PROCESS
-    T3S-27: CREATE LOGIN
+    T3S-27: CREATE REGULAR AND ADMIN LOGIN
     
       - Priority: Must Have
       - Estimated Effort:
-      - 
-      - Description: 
+      - Functional
+      - Description: All users can create a login using a unique username and a six-character minimum password. 
       
     T3S-28: CREATE SELF REGISTRATION
 
       - PRIORITY: Must Have
       - ESTIMATED EFFORT:
-      - 
-      - DESCRIPTION: 
+      - Functional
+      - Description: 
 
  ### T3E-56: ENABLE ACCESS TO PRODUCTS
     T3S-29: CREATE INVENTORY LIST(INCLUDING SEARCH)     
       
       - Priority: Must Have
       - Estimated Effort:
-      - 
-      - Description
+      - Functional
+      - Description:
     
     T3S-30: CREATE PRODUCT VIEW
     
       - Priority: Must Have
       - Estimated Effort:
-      - 
-      - Description
+      - Functional
+      - Description:
     
 
 ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
@@ -37,22 +37,22 @@
       
       - Priority: Must Have
       - Estimated Effort:
-      - 
-      - Description
+      - Functional
+      - Description:
 
     T3S-32: CREATE CHECKOUT(INCLUDING PAYMENT ACCEPTANCE AND ON-SCREEN RECEIPT)
 
       - Priority: Must Have
       - Estimated Effort:
-      - 
+      - Functional
       - Description
       
     T3S-33: CREATE SALES REPORT
      
       - Priority: Must Have
       - Estimated Effort:
-      - 
-      - Description
+      - Functional
+      - Description:
     
 
 
