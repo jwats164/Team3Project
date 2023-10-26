@@ -69,9 +69,10 @@
 
   ## FUTURE USER INTERFACE DESIGN IN MARVEL
    ### T3E-58: CREATE PICTURES FOR INVENTORY ITEMS
+       T3S- 59: Add Addtional Pictures to Each Inventory Item
 
       - Priority: Want to Have
       - Estimated Effort: 2 Days
-      - Functional
+      - 
       - Description: 
       
