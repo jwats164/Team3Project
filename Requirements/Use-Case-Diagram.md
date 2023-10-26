@@ -1,1 +1,5 @@
+# Use Case Diagram 
 
+- Outlines the use cases of the application for versions 1 and 2
+
+![Team 3 Use Case Diagram](https://www.plantuml.com/plantuml/png/TL7BJiGm3BpdAtnS3XM_iDKA8IHEY-1k4jEDsZgHw_0Gujz9AYmjNUqfyNZYcN7sYw9ecIStqPk29f0ud1H25F8Q4plqcWJAGl9tnJ17Wr-HHvVHZpWGz3bFqMDxzUrs1o7K2dgV2kkDspsc8N8zZuLlxpvp4eKdd6Y18zMYCUu5MU6vIa4VvfNy4ka37lYTM9DyLU1m8Z-cqkXz2EUj7zTCGjTjfGqt1rPkPXiEPnfk3GlTkXGRO61tFOenBYDPwrBU6h0DvjgMeIlvdxKzSQZ_zWi0)
