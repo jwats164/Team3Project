@@ -78,7 +78,16 @@
                      and customers who are making purchases. Along with this, Admin users
                      will be able to add inventory to the designated database as needed.
     
+   ### T3E-60 COMPLETE MOCKUP OF APPLICATION
 
+     T3S-61: INCORPORATE ALL MUST HAVES INTO A HIGH-FIDELITY MOCK UI DESIGN
+
+      - Priority: Must Have
+      - Estimated Effort: 3-5 days 
+      - Functional or Non-Functional: 
+      - Description: Create a complete markup of the UI design that incorporates all of
+                     the customer's must-haves to show a model of how our potential 
+                     the application will look. 
     
 
 
