@@ -92,7 +92,7 @@
          - Description: Admins need a way to add new inventory to the system, with a preference for a user interface but an option for manual data entry.
          
   ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
-     T3S-60: EMAIL RECEIPTS TO USER 
+      T3S-60: EMAIL RECEIPTS TO USER 
 
         - Priority: Must Have
         - Estimated Effort:
