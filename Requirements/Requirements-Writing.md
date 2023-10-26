@@ -6,7 +6,7 @@
     
       - Priority: Must Have
       - Estimated Effort: 1-2 Days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: All users can create a login using a unique username and a
                      six-character minimum password. 
       
@@ -14,7 +14,7 @@
 
       - Priority: Must Have
       - Estimated Effort: 1-2 days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: Allow users to register an account if it's their first time
                      logging in, and transforming regular accounts into Admin accounts
                      as needed. 
@@ -24,7 +24,7 @@
       
       - Priority: Must Have
       - Estimated Effort: 1-2 days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: Implement a main screen of a list of all available inventory
                      sorted by highest price to lowest price.
     
@@ -32,7 +32,7 @@
     
       - Priority: Must Have
       - Estimated Effort: 3-4 days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: Design a portfolio for each product that includes a name,
                      price, picture, and description. A button will also be added to ensure that
                      desired items can be added to a cart to be viewed later at checkout.
@@ -43,7 +43,7 @@
       
       - Priority: Must Have
       - Estimated Effort: 5 days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: Build a cart where items that the customer is interested in 
                      can accumulate. Allow users to remove items from their carts as
                      well. If there are zero items in the cart or all of the items
@@ -54,7 +54,7 @@
 
       - Priority: Must Have
       - Estimated Effort: 5 days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: Create a checkout system that allows customers to view each of their
                      products, the subtotal of all the products in US dollars, and to remove
                      any undesired items still left in their cart. Incorporate a pay now button
@@ -73,7 +73,7 @@
      
       - Priority: Must Have
       - Estimated Effort: 1-3 days
-      - Functional
+      - Functional or Non-Functional: Functional
       - Description: Allow Admin users to create sales reports to track sales, inventory,
                      and customers who are making purchases. Along with this, Admin users
                      will be able to add inventory to the designated database as needed.
