@@ -46,14 +46,23 @@
       - Description: Build a cart where items that the customer is interested in 
       can accumulate. Allow users to remove items from their cart as well. If there
       are zero items in the cart, or all of the items in the cart were removed,
-      prohibit customers from entering into the checkout phase.
+      prohibit customers from entering into the checkout phase and take them back to the 
+      main shopping page.
 
     T3S-32: CREATE CHECKOUT(INCLUDING PAYMENT ACCEPTANCE AND ON-SCREEN RECEIPT)
 
       - Priority: Must Have
       - Estimated Effort: 1 week
       - Functional
-      - Description
+      - Description: Create a checkout system that allows customers to view each of their
+      products, the subtotal of all the products in US dollars, and to remove any undesired
+      items still left in their cart. Incorporate a pay now button where users must enter
+      their shipping address, credit card information(Number, expiration date, and CVV), 
+      phone number, and shipping speed (Overnight: $29, 3-Day: $19, Ground: $0). Once they finish 
+      present the confirm order button which will lead them to a list showing their items, their 
+      subtotal, a 6% tax of the subtotal added, shipping speed, and grand total. To finalize the
+      process, the user will click the complete order button
+      
       
     T3S-33: CREATE SALES REPORT
      
@@ -61,6 +70,8 @@
       - Estimated Effort: 1-3 days
       - Functional
       - Description:
+    
+
     
 
 
