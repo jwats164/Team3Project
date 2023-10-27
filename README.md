@@ -20,24 +20,18 @@ The application will sell numerous options of High-quality miniature automobiles
 
 
 
-## TEAM ASSIGNMENTS
-
-https://github.com/jwats164/Team3Project/blob/main/Team-Assignments.md
+## [TEAM ASSIGNMENTS](https://github.com/jwats164/Team3Project/blob/main/Team-Assignments.md)
 
 
-## TECHNOLOGY SELECTION
-
-https://github.com/jwats164/Team3Project/blob/main/Technology-Description.md
+## [TECHNOLOGY SELECTION](https://github.com/jwats164/Team3Project/blob/main/Technology-Description.md)
 
 
-## PROJECT PLAN
-
-https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-22
+## [PROJECT PLAN](https://adkisson-swe-f23.youtrack.cloud/gantt-charts/174-22)
 
 
-## PROJECT PLAN VIDEO PRESENTATION
+## [PROJECT PLAN VIDEO PRESENTATION](https://screenpal.com/watch/c06IcCV58G3)
 
-https://screenpal.com/watch/c06IcCV58G3
+
 
 
 ## REQUIREMENTS
