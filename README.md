@@ -1,4 +1,4 @@
-# Welcome to the project repository for Team 3!
+# Welcome to the Project Repository for Team 3!
 
 Here will be found the source code, project plans, documents, and the team members responsible for creating the project.
 
