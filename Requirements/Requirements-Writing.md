@@ -201,7 +201,7 @@
 
       TS3-61: ADMIN CAN EXPORT THE SALES REPORT TO CSV
 
-        - Priority: Must Have
+        - Priority: Need to Have
         - Estimated Effort: 1-2 Days
         - Functional or Non-Functional: Functional
         - Description: Admins must be able to run a sales report in a CSV showing everything purchased and who
