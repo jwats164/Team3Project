@@ -191,7 +191,7 @@
   ### T3E-57 CREATE PURCHASE AND ACQUISITION SYSTEM
       T3S-60: EMAIL RECEIPTS TO THE USER 
 
-        - Priority: Must Have
+        - Priority: Want to Have
         - Estimated Effort: 1-2 Days
         - Functional or Non-Functional: Functional
         - Description: When a user successfully completes an order, the system will generate 
