@@ -20,6 +20,7 @@ The application will sell numerous options of High-quality miniature automobiles
 
 
 
+
 ## [TEAM ASSIGNMENTS](https://github.com/jwats164/Team3Project/blob/main/Team-Assignments.md)
 
 
@@ -32,6 +33,4 @@ The application will sell numerous options of High-quality miniature automobiles
 ## [PROJECT PLAN VIDEO PRESENTATION](https://screenpal.com/watch/c06IcCV58G3)
 
 
-
-
-## REQUIREMENTS
+## [REQUIREMENTS](https://github.com/jwats164/Team3Project/tree/main/Requirements)
