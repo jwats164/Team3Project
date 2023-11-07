@@ -32,7 +32,7 @@
     
       - Priority: Must Have
       - Estimated Effort: 3-4 days
-      - Functional or Non-Functional: Functional
+      - Functional or Non-Functional: Non-Functional
       - Description: Design a portfolio for each product that includes a name,
                      price, picture, and description. A button will also be added to ensure that
                      desired items can be added to a cart to be viewed later at checkout.
@@ -73,7 +73,7 @@
      
       - Priority: Must Have
       - Estimated Effort: 1-3 days
-      - Functional or Non-Functional: Functional
+      - Functional or Non-Functional: Non-Functional
       - Description: Allow Admin users to create sales reports to track sales, inventory,
                      and customers who are making purchases. Along with this, Admin users
                      will be able to add inventory to the designated database as needed.
@@ -84,7 +84,7 @@
 
       - Priority: Must Have
       - Estimated Effort: 3-5 days 
-      - Functional or Non-Functional: 
+      - Functional or Non-Functional: Non-Functional
       - Description: Create a complete markup of the UI design that incorporates all of
                      the customer's must-haves to show a model of how our potential 
                      the application will look. 
