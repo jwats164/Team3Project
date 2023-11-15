@@ -15,7 +15,7 @@ This developer guide will instruct our developers on implementing the desired te
 
 
 ## Why Java? 
-https://www.w3schools.com/java/default.asp
+[**Java Tutorial**](https://www.w3schools.com/java/default.asp)
 
 Outside of Java being a well-known language by the majority of the development team, it also has a great number of positive impacts it possesses that other languages may not. This will make using the framework simpler to work with since all of the beneficial characteristics of Java will be incorporated into that software as well.
 
