@@ -15,13 +15,18 @@ This developer guide will instruct our developers on implementing the desired te
 
 
 ## Why Java? 
-Outside of 
-- **Strong Library:** Java has a robust and extensive standard library that provides a wide range of pre-built classes and methods, making it easier for developers to perform common tasks without having to write code from scratch. This accelerates development and ensures consistency across projects. 
+
+Outside of Java being a well-known language by the majority of the development team, it also has a great number of positive impacts it possesses that other languages may not. 
+
+- **Strong Library:** Java has a robust and extensive standard library that provides a wide range of built-in classes and methods, making it easier for developers to perform common tasks without having to write code. This accelerates development and ensures consistency across projects. 
 
 - **Multithreading:** Java supports multithreading, allowing developers to create concurrent applications that can execute multiple threads simultaneously. This is particularly useful for improving performance and responsiveness in applications.
 
 - **Object Oriented:** Java is an exceptional programming language for object-oriented programming and incorporating functions since many of the embedded classes and objects within our Java IDEs are made to support this.
 
+- **Platform Independence:** Another advantage of Java is its platform independence. Java programs can run on any device that has a Java Virtual Machine allowing developers to write code once and run it on different platforms without modification. This will be a necessity so that our developers can collaborate without having to work on the same device.
+
+These characteristics make Java a suitable choice for our most efficient desktop application while providing our customers with the least complex and appealing model. 
     
 
 ## Why Swing?
@@ -38,7 +43,7 @@ Swing's extensive feature set makes it possible to design responsive and user-fr
 
 - **Integration Capabilities:** Swing supports easy integration with backend systems and databases, facilitating the seamless management of product listings, orders, and customer data for a miniature car e-commerce platform.
 
- - **Customization and Theming:** The flexibility of Swing allows your team to create a customized and detailed user interface which provides a unique look and feel for our e-commerce application. This is essential for creating a visually appealing shopping experience.
+ - **Customization and Theming:** The flexibility of Swing allows your team to create a customized and detailed user interface that provides a unique look and feel for our e-commerce application. This is essential for creating a visually appealing shopping experience.
 
 By utilizing Java Swing's capabilities, our group aims to deliver a reliable, cross-platform, and visually engaging desktop application tailored to the specific requirements of selling miniature cars in the e-commerce domain.
 
