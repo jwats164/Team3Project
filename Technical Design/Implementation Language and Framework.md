@@ -40,5 +40,4 @@ Swing's extensive feature set makes it possible to design responsive and user-fr
 By utilizing Java Swing's capabilities, our group aims to deliver a reliable, cross-platform, and visually engaging desktop application tailored to the specific requirements of selling miniature cars in the e-commerce domain.
 
 
-## Why SQL?
 
