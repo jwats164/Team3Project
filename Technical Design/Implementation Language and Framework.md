@@ -16,7 +16,7 @@ This developer guide will instruct our developers on implementing the desired te
 
 ## Why Java? 
 
-Outside of Java being a well-known language by the majority of the development team, it also has a great number of positive impacts it possesses that other languages may not. 
+Outside of Java being a well-known language by the majority of the development team, it also has a great number of positive impacts it possesses that other languages may not. This will make using the framework simpler to work with since all of the beneficial characteristics of Java will be incorporated into that software as well.
 
 - **Strong Library:** Java has a robust and extensive standard library that provides a wide range of built-in classes and methods, making it easier for developers to perform common tasks without having to write code. This accelerates development and ensures consistency across projects. 
 
