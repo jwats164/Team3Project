@@ -4,10 +4,14 @@ This developer guide will instruct our developers on implementing the desired te
 
 ## Coding Style
 **-** Indent to help organize which elements are within each other.  
+
 **-** Use Camel Case when naming variables.
+
 **-** Name variables with at least the first three letters of each word used. 
+
 **-** Keep functions within at most 30 lines of code.
-**-** Use comments when describing certain data structures and algorithms to complete a task
+
+**-** Use comments when describing data structures and algorithms to complete a task
 
 
 ## Why Java? 
