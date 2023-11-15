@@ -16,7 +16,9 @@ This developer guide will instruct our developers on implementing the desired te
 
 ## Why Java? 
     - Our team decided to choose Java as our implementation language because most of our development team's skills are based heavily on Java.
+    
     - In the application, we will use of different functions and object-oriented programming to create organization and decrease complexity. 
+    
     - Due to this, we also used Java an exceptional programming language for object-oriented programming and incorporating functions since many of the embedded classes and objects within our Java IDEs are made to support this.
 
 ## Why Swing?
