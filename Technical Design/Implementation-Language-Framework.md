@@ -3,7 +3,7 @@ This developer guide will instruct our developers on implementing the desired te
 
 
 ## Coding Style
-[**Swing Tutorial**](https://www.geeksforgeeks.org/introduction-to-java-swing/)
+
 - Indent to help organize which elements are within each other.  
 
 - Use Camel Case when naming variables.
@@ -32,6 +32,7 @@ These characteristics make Java a suitable choice for our most efficient desktop
     
 
 ## Why Swing?
+[**Swing Tutorial**](https://www.geeksforgeeks.org/introduction-to-java-swing/)
 
 Java Swing is an established and reliable platform for creating desktop Java applications. It offers an extensive collection of tools and GUI components for developing interactive user interfaces. Because of Swing's flexibility, we can create unique user interfaces for our e-commerce desktop application.
 
