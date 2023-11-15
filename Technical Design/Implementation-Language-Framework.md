@@ -6,13 +6,15 @@ This developer guide will instruct our developers on implementing the desired te
 
 - Indent to help organize which elements are within each other.  
 
-- Use Camel Case when naming variables.
+- Use Camel Case(Ex. bigNumberOne) when naming variables.
 
-- Name variables with at least the first three letters of each word used. 
+- Name variables with at least the first three letters of each word used. If variables are difficult to understand with shortened words in the name, use each of the letters for each word to avoid confusion.  
 
 - Keep functions within at most 30 lines of code.
 
-- Use comments when describing data structures and algorithms to complete a task.
+- Use comments when describing data structures and algorithms to complete a task. Simple tasks that don't need much understanding are exempt from needing comments.  
+
+- When debugging, isolate the section from which the error line is contained and backtrack previous lines of code or functions used to find the issue. Once the issue is found and there isn't a simple fix, make comments around the error until it is fixed so that other members understand. 
 
 
 ## Why Java? 
