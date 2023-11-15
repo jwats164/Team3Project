@@ -50,7 +50,7 @@ By utilizing Java Swing's capabilities, our group aims to deliver a reliable, cr
 
 
 ## Data Storage Plan
-https://www.w3schools.com/sql/default.asp
+[**SQL Tutorial**](https://www.w3schools.com/sql/default.asp)
 
 SQLite was chosen as the database solution for our e-commerce desktop application selling miniature cars due to its lightweight, serverless architecture and seamless integration with Java applications. SQLite is a self-contained, file-based database engine, making it easy to deploy and manage, which is advantageous for a desktop application scenario.
 
