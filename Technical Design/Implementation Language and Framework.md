@@ -15,11 +15,12 @@ This developer guide will instruct our developers on implementing the desired te
 
 
 ## Why Java? 
-    - Our team decided to choose Java as our implementation language because most of our development team's skills are based heavily on Java.
+Outside of 
+    - **Strong Library:** Java has a robust and extensive standard library that provides a wide range of pre-built classes and methods, making it easier for developers to perform common tasks without having to write code from scratch. This accelerates development and ensures consistency across projects. 
+    - **Multithreading:** Java supports multithreading, allowing developers to create concurrent applications that can execute multiple threads simultaneously. This is particularly useful for improving performance and responsiveness in applications.
+    - **Object Oriented:** Java is an exceptional programming language for object-oriented programming and incorporating functions since many of the embedded classes and objects within our Java IDEs are made to support this.
+
     
-    - In the application, we will use of different functions and object-oriented programming to create organization and decrease complexity. 
-    
-    - Due to this, we also used Java an exceptional programming language for object-oriented programming and incorporating functions since many of the embedded classes and objects within our Java IDEs are made to support this.
 
 ## Why Swing?
 
