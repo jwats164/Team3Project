@@ -4,6 +4,7 @@
         int UserId PK
         string username
         string password "At least 6 characters"
+        boolean isAdmin
     }
     
     Sales o|--|| Inventory: "contains (0 or 1 to 1)"
@@ -11,7 +12,9 @@
         int saleID PK 
         int UserId FK
         int inventoryId FK
-        string shippingType
+        int shippingTypeId FK
+        date soldDate
+        double grandTotal
         
     }
     Inventory {
@@ -21,8 +24,15 @@
         double price
 
     }
+    ShippingType ||--|| Sales: "1 to 1"
+    ShippingType{
+        int shippingTypeId PK
+        string name
+        double cost
+
+    }
 
 
-    
-![ER diagram-2023-11-15-144338](https://github.com/jwats164/Team3Project/assets/140277706/25aed9e5-3aec-43da-9a55-7150a4e8612b)
+![ER diagram-2023-11-16-184014](https://github.com/jwats164/Team3Project/assets/140277706/dbf95501-fd51-4e28-8212-827b418be872)
+
 
