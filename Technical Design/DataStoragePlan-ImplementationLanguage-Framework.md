@@ -20,7 +20,7 @@ This developer guide will instruct our developers on implementing the desired te
 ## Why Java? 
 [**Java Tutorial**](https://www.w3schools.com/java/default.asp)
 
-Outside of Java being a well-known language by the majority of the development team, it also has a great number of positive impacts it possesses that other languages may not. This will make using the framework simpler to work with since all of the beneficial characteristics of Java will be incorporated into that software as well.
+Outside of Java being a well-known language by the majority of the development team, it has a great number of positive impacts that other languages may not. This will make using the framework simpler to work with, since all of the beneficial characteristics of Java will be incorporated into that software as well.
 
 - **Strong Library:** Java has a robust and extensive standard library that provides a wide range of built-in classes and methods, making it easier for developers to perform common tasks without having to write code. This accelerates development and ensures consistency across projects. 
 
@@ -28,7 +28,7 @@ Outside of Java being a well-known language by the majority of the development t
 
 - **Object Oriented:** Java is an exceptional programming language for object-oriented programming and incorporating functions since many of the embedded classes and objects within our Java IDEs are made to support this.
 
-- **Platform Independence:** Another advantage of Java is its platform independence. Java programs can run on any device that has a Java Virtual Machine allowing developers to write code once and run it on different platforms without modification. This will be a necessity so that our developers can collaborate without having to work on the same device.
+- **Platform Independence:** Another advantage of Java is its platform independence. Java programs can run on any device that has a Java Virtual Machine, allowing developers to write code once and run it on different platforms without modification. This will be a necessity so that our developers can collaborate without having to work on the same device.
 
 These characteristics make Java a suitable choice for our most efficient desktop application while providing our customers with the least complex and appealing model. 
     
@@ -58,7 +58,7 @@ By utilizing Java Swing's capabilities, our group aims to deliver a reliable, cr
 
 SQLite was chosen as the database solution for our e-commerce desktop application selling miniature cars due to its lightweight, serverless architecture and seamless integration with Java applications. SQLite is a self-contained, file-based database engine, making it easy to deploy and manage, which is advantageous for a desktop application scenario.
 
-The decision to use SQLite is based by the following reasons:
+The decision to use SQLite is based on the following reasons:
 
 - **Portability:** SQLite databases are simple files, allowing for easy portability and distribution of the database along with the desktop application. This simplicity aligns well with the needs of a miniature car e-commerce platform.
 
