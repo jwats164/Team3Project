@@ -37,10 +37,10 @@ The `UserAuthentication` class is responsible for managing user registration, lo
 1. **getAvailableInventory() -> List[Object(Photo photo, double price, String name, Sting description)]**
    - Retrieves a list of available inventory items with details. Returns a list of objects containing item information.
 
-2. **search_inventory(String query) -> List[Object(Photo photo, double price, String name, Sting description)]**
+2. **searchInventory(String query) -> List[Object(Photo photo, double price, String name, Sting description)]**
    - Searches the inventory based on a provided query (item name or description). Returns a list of objects containing matched item information.
 
-3. **add_item_to_cart(int userId, int itemId) -> boolean**
+3. **addItemToCart(int userId, int itemId) -> boolean**
    - Adds the specified item to the user's shopping cart. Returns a boolean indicating the success of adding the item to the cart.
 
 ### Relationship
@@ -66,7 +66,7 @@ The `InventoryManager` class is responsible for retrieving available inventory, 
 3. **checkout(int userId) -> List[Object(Photo photo, double price, String name, Sting description)], double grandTotal, int shippingType**
    - Initiates the checkout process for the user, providing a list of items, subtotal, tax, and total cost. Returns either a list of purchase details or an error message.
 
-4. **complete_order(int userId, Map<String, Object> paymentMethods) -> List[Object(Photo photo, double price, String name, Sting description)], double grandTotal, Date date**
+4. **completeOrder(int userId, Map<String, Object> paymentMethods) -> List[Object(Photo photo, double price, String name, Sting description)], double grandTotal, Date date**
    - Completes the order for the user, deducting items from inventory and generating a receipt. Returns either a list of purchase details or an error message.
 
 ### Relationship
