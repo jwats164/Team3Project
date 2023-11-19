@@ -38,3 +38,6 @@ The application will sell numerous options of High-quality miniature automobiles
 
 
 ### [USER INTERFACE DESIGN](https://github.com/jwats164/Team3Project/tree/main/User%20Interface%20Design)
+
+
+### [TECHINCAL DESIGN](https://github.com/jwats164/Team3Project/tree/main/Technical%20Design)
