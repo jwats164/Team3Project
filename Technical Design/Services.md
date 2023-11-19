@@ -20,7 +20,7 @@
 4. **changeUserRole(int userId, String newRole) -> boolean**
    - Changes the role of a user to the specified role (e.g., from user to admin). Returns a boolean indicating the success of the role change.
 
-### Relationship
+### Relationship:
 
 The `UserAuthentication` class is responsible for managing user registration, login, role changes, and admin privileges. This class will inherit from a `DatabaseConnection` class to allow for easy access to the database fields.
 
@@ -43,7 +43,7 @@ The `UserAuthentication` class is responsible for managing user registration, lo
 3. **addItemToCart(int userId, int itemId) -> boolean**
    - Adds the specified item to the user's shopping cart. Returns a boolean indicating the success of adding the item to the cart.
 
-### Relationship
+### Relationship:
 
 The `InventoryManager` class is responsible for retrieving available inventory, searching inventory, and managing items in the shopping cart. This class will also inherit from the `UserAuthentication` class as it will need access to the user's id and whether or not they're an admin. This class will inherit from a `DatabaseConnection` class to allow for easy access to the database fields.
 
@@ -69,7 +69,7 @@ The `InventoryManager` class is responsible for retrieving available inventory, 
 4. **completeOrder(int userId, Map<String, Object> paymentMethods) -> List[Object(Photo photo, double price, String name, Sting description)], double grandTotal, Date date**
    - Completes the order for the user, deducting items from inventory and generating a receipt. Returns either a list of purchase details or an error message.
 
-### Relationship
+### Relationship:
 
 The `ShoppingCartManager` class is responsible for managing the user's shopping cart, including viewing, removing items, and completing the checkout process. This class will also inherit from the `UserAuthentication` class as it will need access to the user's id and whether or not they're an admin. This class will inherit from a `DatabaseConnection` class to allow for easy access to the database fields.
 
