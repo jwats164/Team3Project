@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Application.Inventory.InventoryPage">
+  <grid id="27dc6" binding="inventoryPanel" layout-manager="GridLayoutManager" row-count="6" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="699" height="400"/>
+    </constraints>
+    <properties>
+      <autoscrolls value="false"/>
+      <background color="-2301723"/>
+      <font name="Andale Mono" size="16" style="1"/>
+      <foreground color="-16718585"/>
+      <name value="Inventory Table"/>
+      <opaque value="true"/>
+      <verifyInputWhenFocusTarget value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a3d90" class="javax.swing.JLabel" binding="appName">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Andale Mono" size="28" style="1"/>
+          <text value="Mini-Mobile Marketplace"/>
+        </properties>
+      </component>
+      <component id="f51d4" class="javax.swing.JLabel" binding="inventoryItemsLabel">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="10" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Andale Mono" size="18" style="2"/>
+          <text value="Inventory Items"/>
+        </properties>
+      </component>
+      <scrollpane id="57a3" binding="scrollPane">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="7" hsize-policy="7" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="52f00" class="javax.swing.JTable" binding="inventoryTable">
+            <constraints/>
+            <properties>
+              <foreground color="-16718585"/>
+              <intercellSpacing width="10" height="5"/>
+              <opaque value="false"/>
+            </properties>
+          </component>
+        </children>
+      </scrollpane>
+      <component id="f78c3" class="javax.swing.JButton" binding="addToCartButton">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Add to Cart"/>
+        </properties>
+      </component>
+      <component id="f2bd8" class="javax.swing.JLabel" binding="directionsLabel">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="TO ADD TO CART: SELECT THE ROW YOU WANT AND CLICK ON &quot;ADD TO CART&quot; BUTTON"/>
+        </properties>
+      </component>
+      <component id="68b81" class="javax.swing.JButton" binding="viewCartButton">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="View Cart"/>
+        </properties>
+      </component>
+      <component id="fda4e" class="javax.swing.JButton" binding="backToHomeButton">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Back To Home"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
