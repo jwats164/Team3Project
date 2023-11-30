@@ -3,4 +3,6 @@ Welcome to our e-commerce wonderland for mini car enthusiasts! Navigating our we
 ## Environment Requirements
 Our application will run on Mac, Linux, aand Windows operating systems as long as there is a java virtual machine present. 
 ## Usage Steps
-To use the application, users must have a java virual machince downloaded(Preferbly IntelliJ IDEA 2023).
+###
+                  -To use the application, users must have a java virual machince downloaded(Preferbly IntelliJ IDEA 2023).
+
