@@ -8,4 +8,5 @@ Our application will run on Mac, Linux, aand Windows operating systems as long a
     - Next you will need to clone the link to our source code to enable opening the application. 
     - Now open your IDE, click the "Get from VCS button" and paste the code link into the URL section. Now hit clone. 
     - Next, 
-
+## General Overview Slideshow
+### [Mini-Mobile Slideshow](https://kennesawedu-my.sharepoint.com/:p:/g/personal/atucke84_students_kennesaw_edu/Ea48zgzO6wZKjhaplaYV9oMBpS0C3QJO1h57zDa5maexwQ?e=oolsQo)
