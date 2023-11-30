@@ -12,7 +12,8 @@ Our application will run on Mac, Linux, aand Windows operating systems as long a
 
     - Come back to our Github Repo and download the three different Jar files.
     
-    - Next, click on the "file" section of IntelliJ, click on the "project structure" section, click on the "modules" button, go to the dependencies section, and add the three files under the Jar section.
+    - Next, click on the "file" section of IntelliJ, click on the "project structure" section, click on the "modules" 
+    button, go to the dependencies section, and add the three files under the Jar section.
 
 Resulting these steps, users should be able to run the the application smoothly without any issues!
 
