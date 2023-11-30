@@ -4,5 +4,8 @@ Welcome to our e-commerce wonderland for mini car enthusiasts! Navigating our we
 Our application will run on Mac, Linux, aand Windows operating systems as long as there is a java virtual machine present. 
 ## Usage Steps
 ###
-                  -To use the application, users must have a java virual machince downloaded(Preferbly IntelliJ IDEA 2023).
+    - To use the application, users must have a java virual machince downloaded(Preferbly IntelliJ IDEA 2023).
+    - Next you will need to clone the link to our source code to enable opening the application. 
+    - Now open your IDE, click the "Get from VCS button" and paste the code link into the URL section. Now hit clone. 
+    - Next, 
 
