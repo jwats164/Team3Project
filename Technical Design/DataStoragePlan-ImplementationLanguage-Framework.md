@@ -6,7 +6,7 @@ This developer guide will instruct our developers on implementing the desired te
 
 - Indent to help organize which elements are within each other.  
 
-- Use Camel Case(Ex. bigNumberOne) when naming variables.
+- Use Pascal Case(Ex. BigNumberOne) when naming variables.
 
 - Name variables with at least the first three letters of each word used. If variables are difficult to understand with shortened words in the name, use each of the letters for each word to avoid confusion.  
 
